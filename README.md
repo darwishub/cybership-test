@@ -98,7 +98,7 @@ External API (UPS/FedEx)
 ### **Installation**
 ```bash
 git clone <repo-url>
-cd cybership
+cd cybership-test
 npm install
 ```
 
