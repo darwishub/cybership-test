@@ -1,5 +1,9 @@
 Production-style logistics rate aggregation API built with clean architecture principles.
 
+AI Usage :
+This project used AI for initial scaffolding of HTTP client and route definitions.
+All architecture, service logic, validation, and provider abstraction layers were designed and implemented manually.
+
 ---
 
 ## 📁 Project Structure
