@@ -1,3 +1,4 @@
+Production-style logistics rate aggregation API built with clean architecture principles.
 
 ---
 
